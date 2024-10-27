@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ouilmaeb.github.io/wrV/wrV.txt
